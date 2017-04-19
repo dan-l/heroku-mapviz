@@ -1,0 +1,2083 @@
+{
+	"type": "FeatureCollection",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"features": [{
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.944063401235, 49.199797984532, 0],
+					[-122.944234020468, 49.1997060810541, 0],
+					[-122.944558496714, 49.1999642225832, 0],
+					[-122.944387918404, 49.2000560995702, 0],
+					[-122.944063401235, 49.199797984532, 0]
+				]
+			]
+		},
+		"id": 171
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.943694713188, 49.1995046754046, 0],
+					[-122.943874301359, 49.199419910102, 0],
+					[-122.944180835168, 49.1996637594419, 0],
+					[-122.944010202245, 49.1997556718306, 0],
+					[-122.943839582416, 49.1998475839722, 0],
+					[-122.943668961965, 49.1999394868648, 0],
+					[-122.943498327145, 49.2000313984922, 0],
+					[-122.943327705419, 49.2001233098726, 0],
+					[-122.943167728121, 49.200209460248, 0],
+					[-122.943007763974, 49.2002956283977, 0],
+					[-122.942847812998, 49.2003817963311, 0],
+					[-122.942687834022, 49.2004679550326, 0],
+					[-122.942363364224, 49.2002098082733, 0],
+					[-122.94252334294, 49.2001236410219, 0],
+					[-122.942683307363, 49.200037482536, 0],
+					[-122.942843257504, 49.1999513238202, 0],
+					[-122.943003234553, 49.1998651558996, 0],
+					[-122.94317385598, 49.1997732539896, 0],
+					[-122.943344490513, 49.1996813428373, 0],
+					[-122.943515110686, 49.1995894314245, 0],
+					[-122.943694713188, 49.1995046754046, 0]
+				]
+			]
+		},
+		"id": 172
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.943722147124, 49.1999818087106, 0],
+					[-122.943892767632, 49.1998898967449, 0],
+					[-122.944217298251, 49.2001480032696, 0],
+					[-122.944046663729, 49.2002399157038, 0],
+					[-122.943876042311, 49.2003318188957, 0],
+					[-122.943705420261, 49.2004237218338, 0],
+					[-122.943545456356, 49.200509890725, 0],
+					[-122.943385478168, 49.2005960593865, 0],
+					[-122.943225513161, 49.2006822188363, 0],
+					[-122.943065561327, 49.2007683780699, 0],
+					[-122.94274101891, 49.2005102773262, 0],
+					[-122.94290099794, 49.2004241095563, 0],
+					[-122.943060962687, 49.2003379415567, 0],
+					[-122.943220913131, 49.2002517913178, 0],
+					[-122.943380890494, 49.2001656228789, 0],
+					[-122.943551512267, 49.2000737114206, 0],
+					[-122.943722147124, 49.1999818087106, 0]
+				]
+			]
+		},
+		"id": 173
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.94197732244, 49.2004177483206, 0],
+					[-122.942150090445, 49.2003246886155, 0],
+					[-122.942483652683, 49.2005899917628, 0],
+					[-122.94231225584, 49.2006841320838, 0],
+					[-122.942140872084, 49.2007782631602, 0],
+					[-122.941969473939, 49.200872402969, 0],
+					[-122.941798075145, 49.2009665425216, 0],
+					[-122.941601044006, 49.2010747734954, 0],
+					[-122.941455275614, 49.2011548118632, 0],
+					[-122.941284067156, 49.2012488607921, 0],
+					[-122.941127860538, 49.2011244572082, 0],
+					[-122.940940714567, 49.2009760651134, 0],
+					[-122.941113486461, 49.2008830069693, 0],
+					[-122.941260406604, 49.2008038871357, 0],
+					[-122.941459014557, 49.2006969078843, 0],
+					[-122.941631784506, 49.2006038489597, 0],
+					[-122.941804553808, 49.2005107897749, 0],
+					[-122.94197732244, 49.2004177483206, 0]
+				]
+			]
+		},
+		"id": 174
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.94198797095, 49.201348074846, 0],
+					[-122.941810171689, 49.2014438303484, 0],
+					[-122.941661260694, 49.2013251791635, 0],
+					[-122.941514322872, 49.2014324925657, 0],
+					[-122.941386220455, 49.201555508542, 0],
+					[-122.941597648354, 49.2014987023681, 0],
+					[-122.941810171689, 49.2014438303484, 0],
+					[-122.941316755879, 49.201709589769, 0],
+					[-122.940298629753, 49.2020303801586, 0],
+					[-122.940161911274, 49.201921448279, 0],
+					[-122.940486957728, 49.2017331376727, 0],
+					[-122.940653018181, 49.2016419298031, 0],
+					[-122.940819105478, 49.201550721707, 0],
+					[-122.940985178448, 49.2014595043682, 0],
+					[-122.941151264535, 49.2013682867959, 0],
+					[-122.941318613744, 49.2012763769869, 0],
+					[-122.941485193105, 49.2011848893233, 0],
+					[-122.941661263549, 49.2010881799416, 0],
+					[-122.941832649286, 49.2009940495826, 0],
+					[-122.94200404811, 49.2008999099791, 0],
+					[-122.942261145122, 49.2007587045913, 0],
+					[-122.94251824067, 49.2006174986272, 0],
+					[-122.942851793118, 49.2008828006925, 0],
+					[-122.942592653667, 49.201022378227, 0],
+					[-122.942333499019, 49.2011619641647, 0],
+					[-122.942160742178, 49.2012550151412, 0],
+					[-122.94198797095, 49.201348074846, 0]
+				]
+			]
+		},
+		"id": 175
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.936864259876, 49.2032585802449, 0],
+					[-122.938668514426, 49.2026937120691, 0],
+					[-122.938699810275, 49.2027186546585, 0],
+					[-122.937361777418, 49.2034392248542, 0],
+					[-122.937200185504, 49.2035262475809, 0],
+					[-122.936864259876, 49.2032585802449, 0]
+				]
+			]
+		},
+		"id": 176
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.936408784735, 49.2034826029675, 0],
+					[-122.936874257335, 49.2033355935636, 0],
+					[-122.937015602326, 49.2034482387938, 0],
+					[-122.937148464439, 49.2035540958785, 0],
+					[-122.936760616382, 49.2037629529037, 0],
+					[-122.936627768278, 49.203657086389, 0],
+					[-122.936408784735, 49.2034826029675, 0]
+				]
+			]
+		},
+		"id": 177
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.93975615265, 49.2023514645963, 0],
+					[-122.940182845956, 49.2022171886299, 0],
+					[-122.940268478883, 49.2022854353141, 0],
+					[-122.939912989918, 49.202476895801, 0],
+					[-122.939686760749, 49.2025987361684, 0],
+					[-122.939492839343, 49.2027031691238, 0],
+					[-122.939331239827, 49.2027902038336, 0],
+					[-122.939169653493, 49.2028772203323, 0],
+					[-122.939008052843, 49.2029642545868, 0],
+					[-122.938846451636, 49.2030512796183, 0],
+					[-122.938684863591, 49.2031383044295, 0],
+					[-122.93852326125, 49.2032253290058, 0],
+					[-122.938361658331, 49.2033123623497, 0],
+					[-122.938200068584, 49.2033993864781, 0],
+					[-122.938038464542, 49.2034864103714, 0],
+					[-122.937876859922, 49.2035734430324, 0],
+					[-122.937715268485, 49.2036604574826, 0],
+					[-122.937553662731, 49.2037474896883, 0],
+					[-122.937392056421, 49.2038345126711, 0],
+					[-122.937230463271, 49.2039215354337, 0],
+					[-122.937068855816, 49.2040085669565, 0],
+					[-122.936803143814, 49.2037968344822, 0],
+					[-122.936964737306, 49.2037098123157, 0],
+					[-122.937126343971, 49.2036227809337, 0],
+					[-122.937287950056, 49.2035357583194, 0],
+					[-122.937449541847, 49.20344873547, 0],
+					[-122.93761114681, 49.2033617034052, 0],
+					[-122.937772751184, 49.2032746891032, 0],
+					[-122.937934341284, 49.2031876565756, 0],
+					[-122.938095944535, 49.2031006328231, 0],
+					[-122.938257547218, 49.2030136088429, 0],
+					[-122.938419135607, 49.2029265846278, 0],
+					[-122.938580737167, 49.2028395511971, 0],
+					[-122.938742338149, 49.202752526534, 0],
+					[-122.938903924837, 49.202665501636, 0],
+					[-122.939065524696, 49.2025784675224, 0],
+					[-122.939108795554, 49.2025551655292, 0],
+					[-122.939251041809, 49.2025104078558, 0],
+					[-122.93948399387, 49.2024371105023, 0],
+					[-122.93975615265, 49.2023514645963, 0]
+				]
+			]
+		},
+		"id": 178
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.935941202306, 49.2039132355714, 0],
+					[-122.936329123674, 49.2037043453618, 0],
+					[-122.936504498547, 49.2038440849117, 0],
+					[-122.936679874397, 49.2039838331876, 0],
+					[-122.936855539709, 49.2041234374272, 0],
+					[-122.936655534358, 49.204231136555, 0],
+					[-122.936455528127, 49.2043388443294, 0],
+					[-122.936255534779, 49.2044465337721, 0],
+					[-122.936016442812, 49.2045752771954, 0],
+					[-122.935848374308, 49.2046657846018, 0],
+					[-122.93568030519, 49.204756291762, 0],
+					[-122.935512235459, 49.2048467986759, 0],
+					[-122.935344151398, 49.2049372963407, 0],
+					[-122.935176080452, 49.2050277937668, 0],
+					[-122.93500800888, 49.205118299942, 0],
+					[-122.934839936708, 49.2052087968757, 0],
+					[-122.934671918871, 49.2052992666083, 0],
+					[-122.934355729237, 49.2050473000117, 0],
+					[-122.934367198453, 49.2049701448778, 0],
+					[-122.934470564184, 49.2049144867008, 0],
+					[-122.934638622304, 49.2048239902921, 0],
+					[-122.934806707279, 49.2047334846574, 0],
+					[-122.934974777913, 49.2046429787686, 0],
+					[-122.935142861649, 49.2045524816366, 0],
+					[-122.935310917328, 49.2044619752477, 0],
+					[-122.935478999849, 49.2043714686279, 0],
+					[-122.935647068029, 49.2042809617542, 0],
+					[-122.935490303806, 49.204156055559, 0],
+					[-122.935529085503, 49.20413515415, 0],
+					[-122.935729395139, 49.2040272952246, 0],
+					[-122.935929401677, 49.2039195976971, 0],
+					[-122.935941202306, 49.2039132355714, 0]
+				]
+			]
+		},
+		"id": 179
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.925958469056, 49.2053187288095, 0],
+					[-122.926243233103, 49.2051654062704, 0],
+					[-122.926593649161, 49.205444798513, 0],
+					[-122.926309049414, 49.2055980680416, 0],
+					[-122.926133806664, 49.205458484046, 0],
+					[-122.925958469056, 49.2053187288095, 0]
+				]
+			]
+		},
+		"id": 180
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.933684613595, 49.2055633635706, 0],
+					[-122.933655389278, 49.2055400669636, 0],
+					[-122.933427564588, 49.2056627306567, 0],
+					[-122.933321295926, 49.205578032625, 0],
+					[-122.933172487453, 49.2054594605925, 0],
+					[-122.933013860703, 49.2053330477695, 0],
+					[-122.932867865018, 49.2052166988087, 0],
+					[-122.932721856289, 49.2051003496533, 0],
+					[-122.932402510029, 49.2048458571778, 0],
+					[-122.932619068069, 49.2047292517472, 0],
+					[-122.932938373543, 49.2049837166195, 0],
+					[-122.933121807924, 49.2048849017002, 0],
+					[-122.933267816958, 49.2050012503546, 0],
+					[-122.933413826664, 49.2051176078176, 0],
+					[-122.933478377238, 49.2051690531288, 0],
+					[-122.933543029812, 49.2051342425684, 0],
+					[-122.933989373325, 49.2048928398796, 0],
+					[-122.934129683567, 49.2050046460601, 0],
+					[-122.934168847034, 49.2049835519296, 0],
+					[-122.934190172055, 49.2050005705888, 0],
+					[-122.934607926302, 49.2053337273566, 0],
+					[-122.934470227963, 49.2054078695029, 0],
+					[-122.934332529212, 49.2054820114839, 0],
+					[-122.934194843778, 49.2055561533075, 0],
+					[-122.934057144192, 49.2056303039532, 0],
+					[-122.933852634232, 49.2057404063684, 0],
+					[-122.933657163265, 49.2058456651476, 0],
+					[-122.93345681634, 49.2056860183414, 0],
+					[-122.933652287101, 49.2055807598983, 0],
+					[-122.933684613595, 49.2055633635706, 0]
+				]
+			]
+		},
+		"id": 181
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.93194942387, 49.2051254159074, 0],
+					[-122.932216173631, 49.204981779348, 0],
+					[-122.932391545431, 49.205121605169, 0],
+					[-122.932566919593, 49.2052614307216, 0],
+					[-122.932742294743, 49.2054012569044, 0],
+					[-122.93291766951, 49.2055410819177, 0],
+					[-122.933093046638, 49.2056809066625, 0],
+					[-122.933268449486, 49.2058207176594, 0],
+					[-122.933443802488, 49.2059605562432, 0],
+					[-122.933177051011, 49.206104196512, 0],
+					[-122.933001673524, 49.2059643710056, 0],
+					[-122.932826317633, 49.2058245344475, 0],
+					[-122.93265094075, 49.2056847084018, 0],
+					[-122.932475566228, 49.2055448829871, 0],
+					[-122.932300169341, 49.2054050689834, 0],
+					[-122.932124796798, 49.2052652421307, 0],
+					[-122.93194942387, 49.2051254159074, 0]
+				]
+			]
+		},
+		"id": 182
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.930334816186, 49.2058831534776, 0],
+					[-122.930531997963, 49.2057769928246, 0],
+					[-122.93065614446, 49.2058759437068, 0],
+					[-122.930064609968, 49.2061944072967, 0],
+					[-122.929940450113, 49.2060954647714, 0],
+					[-122.930137633578, 49.2059893047963, 0],
+					[-122.930334816186, 49.2058831534776, 0]
+				]
+			]
+		},
+		"id": 183
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.931937159656, 49.206227122766, 0],
+					[-122.932118663401, 49.2061293967532, 0],
+					[-122.932280286441, 49.2060423811908, 0],
+					[-122.932389297892, 49.2059836715947, 0],
+					[-122.932272136197, 49.2058902641772, 0],
+					[-122.932154696498, 49.2057966774696, 0],
+					[-122.932096855166, 49.2057505884687, 0],
+					[-122.931921424273, 49.2056107927649, 0],
+					[-122.931803972197, 49.2055171849995, 0],
+					[-122.931745999864, 49.2054709931969, 0],
+					[-122.93157057782, 49.2053311924608, 0],
+					[-122.931843226967, 49.2051839594452, 0],
+					[-122.932018594421, 49.205323705767, 0],
+					[-122.932194308417, 49.205463747068, 0],
+					[-122.932369739561, 49.205603542361, 0],
+					[-122.932545109982, 49.2057432878744, 0],
+					[-122.932720481379, 49.2058830421138, 0],
+					[-122.932863956698, 49.2059973838316, 0],
+					[-122.932643354507, 49.2061161641993, 0],
+					[-122.932667651299, 49.2061355380384, 0],
+					[-122.932675464086, 49.2061417574415, 0],
+					[-122.932895841408, 49.2060227960769, 0],
+					[-122.933071316274, 49.2061626244976, 0],
+					[-122.932851087204, 49.2062814504514, 0],
+					[-122.9326894795, 49.206368456923, 0],
+					[-122.932527856103, 49.2064554820482, 0],
+					[-122.932346351982, 49.206553199703, 0],
+					[-122.932164860874, 49.2066509170787, 0],
+					[-122.931755668938, 49.2063248395045, 0],
+					[-122.931937159656, 49.206227122766, 0]
+				]
+			]
+		},
+		"id": 184
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.930542878214, 49.2065755566426, 0],
+					[-122.931134414212, 49.2062570726345, 0],
+					[-122.931253982792, 49.2063523590512, 0],
+					[-122.931368765774, 49.2064438284944, 0],
+					[-122.931508000699, 49.2065547871354, 0],
+					[-122.931212239943, 49.2067140259753, 0],
+					[-122.930916449829, 49.2068732640362, 0],
+					[-122.930777229051, 49.206762313692, 0],
+					[-122.930662446425, 49.2066708436662, 0],
+					[-122.930542878214, 49.2065755566426, 0]
+				]
+			]
+		},
+		"id": 185
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.931402626178, 49.2066682811925, 0],
+					[-122.931550513216, 49.2065886616274, 0],
+					[-122.931846881881, 49.2068248463979, 0],
+					[-122.931698747766, 49.2069042682967, 0],
+					[-122.931550873753, 49.2069838880551, 0],
+					[-122.931402985524, 49.20706351661, 0],
+					[-122.931255096844, 49.2071431269837, 0],
+					[-122.930958975931, 49.2069071477475, 0],
+					[-122.931106864406, 49.206827519759, 0],
+					[-122.931254738653, 49.2067479095623, 0],
+					[-122.931402626178, 49.2066682811925, 0]
+				]
+			]
+		},
+		"id": 186
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.913304025841, 49.2082814652503, 0],
+					[-122.913485079087, 49.2081840290706, 0],
+					[-122.913835650287, 49.2084635589443, 0],
+					[-122.913654596723, 49.2085609866732, 0],
+					[-122.913304025841, 49.2082814652503, 0]
+				]
+			]
+		},
+		"id": 187
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.913908691108, 49.2087635793849, 0],
+					[-122.914028330961, 49.208699217234, 0],
+					[-122.914212407865, 49.2088459863341, 0],
+					[-122.91409278161, 49.2089103576794, 0],
+					[-122.913908691108, 49.2087635793849, 0]
+				]
+			]
+		},
+		"id": 188
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.921662020281, 49.209101788802, 0],
+					[-122.922087118208, 49.2088714370784, 0],
+					[-122.922218619057, 49.2089762938531, 0],
+					[-122.921793520741, 49.2092067090233, 0],
+					[-122.921662020281, 49.209101788802, 0]
+				]
+			]
+		},
+		"id": 189
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.911970325274, 49.2089991353118, 0],
+					[-122.912237068475, 49.2088556025404, 0],
+					[-122.912587637393, 49.2091351271726, 0],
+					[-122.912320893701, 49.2092786607463, 0],
+					[-122.911970325274, 49.2089991353118, 0]
+				]
+			]
+		},
+		"id": 190
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.913960078332, 49.2092156939974, 0],
+					[-122.914183982194, 49.2090952157286, 0],
+					[-122.914499628838, 49.2093468861608, 0],
+					[-122.914275752064, 49.2094673650565, 0],
+					[-122.913960078332, 49.2092156939974, 0]
+				]
+			]
+		},
+		"id": 191
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.899994044442, 49.2103007475292, 0],
+					[-122.900291589745, 49.2101407446852, 0],
+					[-122.900466748394, 49.2102805476181, 0],
+					[-122.900156282734, 49.2104475020956, 0],
+					[-122.899994044442, 49.2103007475292, 0]
+				]
+			]
+		},
+		"id": 192
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.903555607105, 49.2106246381443, 0],
+					[-122.903982242866, 49.2103948131376, 0],
+					[-122.904157577637, 49.2105345836255, 0],
+					[-122.903730941484, 49.210764409274, 0],
+					[-122.903555607105, 49.2106246381443, 0]
+				]
+			]
+		},
+		"id": 193
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.895194147787, 49.2209131005609, 0],
+					[-122.895203049508, 49.2205870030058, 0],
+					[-122.895387131617, 49.2205891668129, 0],
+					[-122.895571200029, 49.220591321319, 0],
+					[-122.895755268457, 49.2205934755318, 0],
+					[-122.895746370368, 49.2209195731316, 0],
+					[-122.895562300748, 49.2209174099086, 0],
+					[-122.895378231125, 49.2209152553877, 0],
+					[-122.895194147787, 49.2209131005609, 0]
+				]
+			]
+		},
+		"id": 194
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.895911467611, 49.2210037378627, 0],
+					[-122.895922624628, 49.2205954344894, 0],
+					[-122.896109604337, 49.2205976267416, 0],
+					[-122.896098760236, 49.2209949651767, 0],
+					[-122.896098462593, 49.2210059301462, 0],
+					[-122.895911467611, 49.2210037378627, 0]
+				]
+			]
+		},
+		"id": 195
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.896403332546, 49.2209985399923, 0],
+					[-122.896414119295, 49.2206011924827, 0],
+					[-122.896563884368, 49.2206029458346, 0],
+					[-122.896713635719, 49.2206046989801, 0],
+					[-122.897002262424, 49.220608078053, 0],
+					[-122.897265800143, 49.220611164236, 0],
+					[-122.897533718525, 49.2206142986801, 0],
+					[-122.897522753301, 49.2210226023748, 0],
+					[-122.897254805248, 49.2210194678796, 0],
+					[-122.89699122416, 49.2210163816335, 0],
+					[-122.896702567594, 49.2210130115024, 0],
+					[-122.896552801295, 49.2210112493343, 0],
+					[-122.896403021256, 49.221009495955, 0],
+					[-122.896403332546, 49.2209985399923, 0]
+				]
+			]
+		},
+		"id": 196
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.893929486801, 49.2208982734012, 0],
+					[-122.893938410592, 49.2205721669657, 0],
+					[-122.894168495933, 49.2205748696845, 0],
+					[-122.894398595032, 49.2205775719575, 0],
+					[-122.894389674287, 49.2209036694351, 0],
+					[-122.894385562861, 49.2210543904647, 0],
+					[-122.894381437695, 49.2212051024824, 0],
+					[-122.894377505619, 49.2213489692705, 0],
+					[-122.894373573501, 49.2214928450501, 0],
+					[-122.894369820801, 49.2216298486025, 0],
+					[-122.894366081775, 49.2217668701546, 0],
+					[-122.894362342747, 49.2219038827081, 0],
+					[-122.893902132244, 49.2218984865473, 0],
+					[-122.893905886277, 49.2217614740221, 0],
+					[-122.893909626575, 49.2216244524857, 0],
+					[-122.893913380565, 49.2214874399537, 0],
+					[-122.893917314, 49.2213435731858, 0],
+					[-122.893921247411, 49.2211997064141, 0],
+					[-122.893925373995, 49.2210489854184, 0],
+					[-122.893929486801, 49.2208982734012, 0]
+				]
+			]
+		},
+		"id": 197
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.894665792318, 49.2209069079794, 0],
+					[-122.894674697514, 49.220580810467, 0],
+					[-122.894904782956, 49.220583502724, 0],
+					[-122.895136131772, 49.2205862226554, 0],
+					[-122.895127229611, 49.2209123202051, 0],
+					[-122.895123106713, 49.2210630322546, 0],
+					[-122.89511898377, 49.2212137532952, 0],
+					[-122.895115067567, 49.2213576201221, 0],
+					[-122.895111123875, 49.2215014869203, 0],
+					[-122.895107386909, 49.2216385085008, 0],
+					[-122.89510364996, 49.2217755120875, 0],
+					[-122.895099899218, 49.2219125336487, 0],
+					[-122.894638438882, 49.2219071212959, 0],
+					[-122.89464219088, 49.2217701087457, 0],
+					[-122.894645929124, 49.2216330961794, 0],
+					[-122.894649681098, 49.2214960746271, 0],
+					[-122.894653626129, 49.2213522078454, 0],
+					[-122.894657543671, 49.2212083410349, 0],
+					[-122.894661668017, 49.2210576200116, 0],
+					[-122.894665792318, 49.2209069079794, 0]
+				]
+			]
+		},
+		"id": 198
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.895189429422, 49.2210857335514, 0],
+					[-122.895192956472, 49.2209569334439, 0],
+					[-122.895745165809, 49.2209634060081, 0],
+					[-122.895741653945, 49.2210921971505, 0],
+					[-122.895738142043, 49.2212209972851, 0],
+					[-122.895734213904, 49.2213648641216, 0],
+					[-122.895730285742, 49.2215087309544, 0],
+					[-122.895726550487, 49.221645752556, 0],
+					[-122.895722801515, 49.2217827561512, 0],
+					[-122.895719066218, 49.2219197777459, 0],
+					[-122.895166832476, 49.2219133140336, 0],
+					[-122.8951705693, 49.2217762924576, 0],
+					[-122.895174319836, 49.2216392708907, 0],
+					[-122.895178056598, 49.2215022583031, 0],
+					[-122.895181986363, 49.22135839149, 0],
+					[-122.895185916104, 49.2212145246732, 0],
+					[-122.895189429422, 49.2210857335514, 0]
+				]
+			]
+		},
+		"id": 199
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.893592826659, 49.2219414333168, 0],
+					[-122.893600785507, 49.2216501287832, 0],
+					[-122.893841903146, 49.2216529592505, 0],
+					[-122.893833932001, 49.2219442547936, 0],
+					[-122.893592826659, 49.2219414333168, 0]
+				]
+			]
+		},
+		"id": 200
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.893685558345, 49.2222138955046, 0],
+					[-122.893690505714, 49.2220330321459, 0],
+					[-122.893898419447, 49.2220354721212, 0],
+					[-122.894106346934, 49.2220379117348, 0],
+					[-122.89431421951, 49.222040350924, 0],
+					[-122.894522174506, 49.2220427898143, 0],
+					[-122.894730102057, 49.2220452283052, 0],
+					[-122.894938029628, 49.2220476664219, 0],
+					[-122.895145929755, 49.2220501041394, 0],
+					[-122.895353857368, 49.2220525415076, 0],
+					[-122.895561785003, 49.2220549785016, 0],
+					[-122.895769712659, 49.2220574151213, 0],
+					[-122.895759833056, 49.2224191420194, 0],
+					[-122.895551903883, 49.222416705381, 0],
+					[-122.895343988464, 49.2224142683809, 0],
+					[-122.895136059334, 49.222411830994, 0],
+					[-122.894928130224, 49.2224093932329, 0],
+					[-122.894720214868, 49.2224069551101, 0],
+					[-122.894512299534, 49.222404516613, 0],
+					[-122.894304329288, 49.2224020776914, 0],
+					[-122.894096455195, 49.2223996384836, 0],
+					[-122.89388852619, 49.2223971988512, 0],
+					[-122.89368061094, 49.2223947588573, 0],
+					[-122.893685558345, 49.2222138955046, 0]
+				]
+			]
+		},
+		"id": 201
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.89363840336, 49.2227108677694, 0],
+					[-122.893646180768, 49.2224272540608, 0],
+					[-122.893920631846, 49.222430465863, 0],
+					[-122.894057850504, 49.2224320850062, 0],
+					[-122.894195137855, 49.222433695054, 0],
+					[-122.894332301637, 49.2224352958303, 0],
+					[-122.894469575255, 49.2224369145347, 0],
+					[-122.894606752788, 49.2224385149977, 0],
+					[-122.894744012691, 49.2224401333634, 0],
+					[-122.894881231441, 49.222441733538, 0],
+					[-122.895018450182, 49.2224433425448, 0],
+					[-122.895155668913, 49.2224449603839, 0],
+					[-122.895292860225, 49.2224465600447, 0],
+					[-122.895430106441, 49.2224481775827, 0],
+					[-122.895567311504, 49.2224497769299, 0],
+					[-122.89575049693, 49.2224519276512, 0],
+					[-122.895742759008, 49.2227355505283, 0],
+					[-122.895559572534, 49.2227333997942, 0],
+					[-122.895422352972, 49.2227317914296, 0],
+					[-122.895285133418, 49.2227301829021, 0],
+					[-122.895147913855, 49.2227285832068, 0],
+					[-122.895010694339, 49.222726965358, 0],
+					[-122.894873474794, 49.2227253653367, 0],
+					[-122.894736255277, 49.2227237561572, 0],
+					[-122.894599035789, 49.2227221378194, 0],
+					[-122.894461816271, 49.2227205373092, 0],
+					[-122.894324596801, 49.2227189186454, 0],
+					[-122.894187377302, 49.2227173178091, 0],
+					[-122.894050157831, 49.2227157078146, 0],
+					[-122.89391293837, 49.2227140976571, 0],
+					[-122.89363840336, 49.2227108677694, 0]
+				]
+			]
+		},
+		"id": 202
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.893617027821, 49.2230338079533, 0],
+					[-122.893620917476, 49.222891604419, 0],
+					[-122.893809182941, 49.222893799777, 0],
+					[-122.8939974484, 49.2228960056225, 0],
+					[-122.89418572761, 49.2228982111737, 0],
+					[-122.894373993103, 49.2229004164056, 0],
+					[-122.894562258614, 49.2229026213306, 0],
+					[-122.894750524143, 49.2229048259487, 0],
+					[-122.894938789707, 49.2229070212649, 0],
+					[-122.895127069003, 49.2229092252819, 0],
+					[-122.895315334583, 49.2229114289795, 0],
+					[-122.89550360018, 49.2229136323704, 0],
+					[-122.895691865794, 49.2229158354545, 0],
+					[-122.895681910773, 49.2232804137243, 0],
+					[-122.895493643774, 49.2232782106232, 0],
+					[-122.895305376793, 49.2232760072153, 0],
+					[-122.895117096114, 49.2232737944929, 0],
+					[-122.894928829167, 49.2232715904713, 0],
+					[-122.894740562237, 49.2232693861429, 0],
+					[-122.894552295324, 49.2232671815077, 0],
+					[-122.894364028448, 49.2232649675704, 0],
+					[-122.894175747836, 49.2232627623089, 0],
+					[-122.893987480995, 49.2232605477579, 0],
+					[-122.89379921417, 49.2232583329001, 0],
+					[-122.893632215786, 49.2232563676005, 0],
+					[-122.893611315473, 49.2232426584533, 0],
+					[-122.893617027821, 49.2230338079533, 0]
+				]
+			]
+		},
+		"id": 203
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.917492827645, 49.2225626700371, 0],
+					[-122.917919762203, 49.2223330371086, 0],
+					[-122.918104216773, 49.2224799888161, 0],
+					[-122.918288163802, 49.2226272457053, 0],
+					[-122.917861242146, 49.2228568799929, 0],
+					[-122.917679786539, 49.2229544754242, 0],
+					[-122.917498343966, 49.223052061583, 0],
+					[-122.917316900663, 49.22314965645, 0],
+					[-122.917135442912, 49.2232472510201, 0],
+					[-122.916953984447, 49.2233448453031, 0],
+					[-122.916772539, 49.2234424393089, 0],
+					[-122.916403604279, 49.2231485043874, 0],
+					[-122.916585571711, 49.2230506324797, 0],
+					[-122.916767029823, 49.2229530387702, 0],
+					[-122.916948487221, 49.2228554447737, 0],
+					[-122.917129930155, 49.2227578594754, 0],
+					[-122.917311372391, 49.2226602648949, 0],
+					[-122.917492827645, 49.2225626700371, 0]
+				]
+			]
+		},
+		"id": 204
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.89348718051, 49.2234355942265, 0],
+					[-122.89349092208, 49.2232985817396, 0],
+					[-122.893542804533, 49.2232997359832, 0],
+					[-122.893657861555, 49.2233005435912, 0],
+					[-122.893824802759, 49.2233017046241, 0],
+					[-122.893991713079, 49.2233044665454, 0],
+					[-122.894158650885, 49.2233072282506, 0],
+					[-122.894325592143, 49.2233083795646, 0],
+					[-122.894492533409, 49.2233095306373, 0],
+					[-122.894659443794, 49.2233122915938, 0],
+					[-122.894826381646, 49.2233150613293, 0],
+					[-122.894993322967, 49.2233162026831, 0],
+					[-122.895160250563, 49.2233173437831, 0],
+					[-122.895327174727, 49.2233201127825, 0],
+					[-122.895494114351, 49.2233220719805, 0],
+					[-122.895661040256, 49.2233240309248, 0],
+					[-122.895653555376, 49.2235980470348, 0],
+					[-122.895486614777, 49.2235961060573, 0],
+					[-122.895319687944, 49.2235941558556, 0],
+					[-122.895152761144, 49.2235921964175, 0],
+					[-122.894985820625, 49.2235902367257, 0],
+					[-122.894818893852, 49.2235882768052, 0],
+					[-122.894651953359, 49.223586316631, 0],
+					[-122.894485026594, 49.2235843652232, 0],
+					[-122.894318086128, 49.2235824045665, 0],
+					[-122.89415115941, 49.2235804436811, 0],
+					[-122.893984232705, 49.2235784825545, 0],
+					[-122.89381729228, 49.223576521174, 0],
+					[-122.893650365603, 49.223574559565, 0],
+					[-122.893483424045, 49.2235731374171, 0],
+					[-122.89348718051, 49.2234355942265, 0]
+				]
+			]
+		},
+		"id": 205
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.893474142583, 49.2238850847661, 0],
+					[-122.893477870665, 49.2237479913205, 0],
+					[-122.893644715518, 49.2237499531033, 0],
+					[-122.89381165654, 49.2237519057383, 0],
+					[-122.893978583821, 49.2237538671146, 0],
+					[-122.894145579535, 49.2237559452509, 0],
+					[-122.894312452179, 49.223757780161, 0],
+					[-122.894479393235, 49.2237597408262, 0],
+					[-122.894646306837, 49.2237617012251, 0],
+					[-122.894813247921, 49.2237636614079, 0],
+					[-122.894981040516, 49.2237656131282, 0],
+					[-122.895147130147, 49.2237675720544, 0],
+					[-122.895314043804, 49.2237695314885, 0],
+					[-122.895480998656, 49.223771499714, 0],
+					[-122.895647926112, 49.2237734406876, 0],
+					[-122.895805653581, 49.2237746714912, 0],
+					[-122.895798168123, 49.2240493082619, 0],
+					[-122.89564048225, 49.224047474803, 0],
+					[-122.895473553891, 49.2240455248229, 0],
+					[-122.895306625526, 49.2240435835968, 0],
+					[-122.895139834606, 49.2240415972778, 0],
+					[-122.894973551786, 49.2240396381658, 0],
+					[-122.894806074137, 49.2240376867217, 0],
+					[-122.894639200799, 49.2240357265907, 0],
+					[-122.89447231374, 49.224033766206, 0],
+					[-122.894305426677, 49.2240318145756, 0],
+					[-122.894138127388, 49.2240299702694, 0],
+					[-122.893971666362, 49.2240278926134, 0],
+					[-122.893804779339, 49.2240259402597, 0],
+					[-122.893637342676, 49.224024131083, 0],
+					[-122.89347041446, 49.2240221872035, 0],
+					[-122.893474142583, 49.2238850847661, 0]
+				]
+			]
+		},
+		"id": 206
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.918502644815, 49.2237409394767, 0],
+					[-122.918384747633, 49.2238043538319, 0],
+					[-122.918040557003, 49.2235301412754, 0],
+					[-122.91815838538, 49.2234666822434, 0],
+					[-122.918308172657, 49.2233856959282, 0],
+					[-122.918219776709, 49.2233152723949, 0],
+					[-122.918150608588, 49.2233524728113, 0],
+					[-122.91795201081, 49.2234592946547, 0],
+					[-122.918014018156, 49.223508695715, 0],
+					[-122.918013776231, 49.2235088259746, 0],
+					[-122.918384747633, 49.2238043538319, 0],
+					[-122.918171275597, 49.2239191623267, 0],
+					[-122.917958132448, 49.2240338087436, 0],
+					[-122.917744644687, 49.2241486254298, 0],
+					[-122.917524942726, 49.2242667925172, 0],
+					[-122.917160427645, 49.2239680687349, 0],
+					[-122.916964052317, 49.2238112931539, 0],
+					[-122.916788291649, 49.2236712452933, 0],
+					[-122.917001779565, 49.2235564303651, 0],
+					[-122.917215252744, 49.2234416240249, 0],
+					[-122.917428395061, 49.2233269789665, 0],
+					[-122.917641852545, 49.2232121628273, 0],
+					[-122.917840449984, 49.2231053505076, 0],
+					[-122.918039046568, 49.222998537844, 0],
+					[-122.918465968622, 49.2227689029051, 0],
+					[-122.918631814618, 49.2229010434054, 0],
+					[-122.918776128243, 49.2230160235443, 0],
+					[-122.918920442522, 49.2231310124962, 0],
+					[-122.919064743751, 49.223245992261, 0],
+					[-122.91920905937, 49.2233609808485, 0],
+					[-122.918782135652, 49.2235906185092, 0],
+					[-122.918652747832, 49.2236601958135, 0],
+					[-122.918502644815, 49.2237409394767, 0]
+				]
+			]
+		},
+		"id": 207
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.893537965356, 49.2245167013457, 0],
+					[-122.89354562602, 49.2242366947276, 0],
+					[-122.893765263525, 49.2242392806719, 0],
+					[-122.893984928539, 49.2242418572286, 0],
+					[-122.89420456611, 49.2242444333424, 0],
+					[-122.894424231171, 49.2242470090637, 0],
+					[-122.894643882542, 49.2242495753596, 0],
+					[-122.894863520164, 49.2242521592158, 0],
+					[-122.895083185296, 49.2242547336841, 0],
+					[-122.895302836718, 49.2242573077223, 0],
+					[-122.895522488163, 49.2242598813428, 0],
+					[-122.895716322274, 49.2242621523885, 0],
+					[-122.895741693311, 49.2242787625628, 0],
+					[-122.895734477583, 49.22454248829, 0],
+					[-122.895514838607, 49.2245399150842, 0],
+					[-122.895295185921, 49.2245373414484, 0],
+					[-122.895075533278, 49.2245347583997, 0],
+					[-122.894855880639, 49.2245321839287, 0],
+					[-122.894636228042, 49.2245296000447, 0],
+					[-122.89441657545, 49.2245270247383, 0],
+					[-122.894196922882, 49.2245244490142, 0],
+					[-122.893977256622, 49.2245218638647, 0],
+					[-122.893757617834, 49.2245192873179, 0],
+					[-122.893537965356, 49.2245167013457, 0]
+				]
+			]
+		},
+		"id": 208
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.893526584524, 49.2250579450509, 0],
+					[-122.893536331994, 49.2247016425301, 0],
+					[-122.893719165819, 49.2247037988444, 0],
+					[-122.893902095855, 49.2247059279719, 0],
+					[-122.89408491598, 49.2247080836948, 0],
+					[-122.89426766749, 49.2247102210749, 0],
+					[-122.894450570069, 49.2247123672992, 0],
+					[-122.894633403995, 49.2247145131714, 0],
+					[-122.894816224223, 49.2247166497464, 0],
+					[-122.894999058181, 49.2247187950397, 0],
+					[-122.895181878423, 49.2247209400313, 0],
+					[-122.89536469868, 49.2247230847336, 0],
+					[-122.895547532688, 49.2247252291589, 0],
+					[-122.895730352997, 49.2247273642872, 0],
+					[-122.895720530357, 49.2250877237851, 0],
+					[-122.89553768127, 49.2250855796204, 0],
+					[-122.895354859667, 49.2250834351911, 0],
+					[-122.895172010613, 49.2250812904476, 0],
+					[-122.894989202776, 49.2250791454522, 0],
+					[-122.894806381222, 49.2250770001549, 0],
+					[-122.894623559666, 49.2250748635636, 0],
+					[-122.894440655741, 49.2250727176124, 0],
+					[-122.894257902886, 49.2250705805051, 0],
+					[-122.894075081417, 49.2250684250553, 0],
+					[-122.893892150073, 49.2250662782104, 0],
+					[-122.893709419664, 49.2250601013815, 0],
+					[-122.893526584524, 49.2250579450509, 0]
+				]
+			]
+		},
+		"id": 209
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.898042060583, 49.2269696625251, 0],
+					[-122.89804469145, 49.2268791994851, 0],
+					[-122.898189078065, 49.2268808830098, 0],
+					[-122.898478277073, 49.2268842588872, 0],
+					[-122.898473621173, 49.2270652125032, 0],
+					[-122.898039457156, 49.227060134583, 0],
+					[-122.898042060583, 49.2269696625251, 0]
+				]
+			]
+		},
+		"id": 210
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.898034209089, 49.227241069663, 0],
+					[-122.898036840004, 49.2271505976322, 0],
+					[-122.898471293218, 49.2271556848113, 0],
+					[-122.898468951521, 49.2272461571059, 0],
+					[-122.898466637044, 49.2273367463614, 0],
+					[-122.898464295605, 49.2274270837244, 0],
+					[-122.898459653353, 49.2276080283394, 0],
+					[-122.898452669103, 49.2278795441806, 0],
+					[-122.898306851199, 49.2278778417358, 0],
+					[-122.898161047039, 49.2278761391191, 0],
+					[-122.898168623474, 49.227604623817, 0],
+					[-122.898023740323, 49.2276029308339, 0],
+					[-122.89802898847, 49.2274219957659, 0],
+					[-122.898031591935, 49.2273315237139, 0],
+					[-122.898034209089, 49.227241069663, 0]
+				]
+			]
+		},
+		"id": 211
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1A</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.933409136692, 49.2062179006373, 0],
+					[-122.933622456062, 49.2061030365728, 0],
+					[-122.933950895477, 49.206364754039, 0],
+					[-122.933737562012, 49.2064796186968, 0],
+					[-122.933524213843, 49.2065944739547, 0],
+					[-122.933310878389, 49.2067093468143, 0],
+					[-122.933097555689, 49.2068242102898, 0],
+					[-122.933262029669, 49.2069552769095, 0],
+					[-122.933426230231, 49.2070861272473, 0],
+					[-122.93299956739, 49.2073158631988, 0],
+					[-122.932835353466, 49.2071850122519, 0],
+					[-122.932671126692, 49.2070541520656, 0],
+					[-122.932342456353, 49.2067922329598, 0],
+					[-122.932555794392, 49.2066773708869, 0],
+					[-122.932769117727, 49.206562499414, 0],
+					[-122.93298245379, 49.2064476365477, 0],
+					[-122.933195802594, 49.2063327732925, 0],
+					[-122.933409136692, 49.2062179006373, 0]
+				]
+			]
+		},
+		"id": 212
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1A</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.931809106689, 49.2070795618142, 0],
+					[-122.932022433471, 49.2069647007252, 0],
+					[-122.932351130965, 49.2072264408439, 0],
+					[-122.932679817931, 49.207488377905, 0],
+					[-122.9324664767, 49.2076032311941, 0],
+					[-122.932253134468, 49.2077180930816, 0],
+					[-122.932039791248, 49.2078329545724, 0],
+					[-122.931711091628, 49.2075710336886, 0],
+					[-122.931382408961, 49.2073092917729, 0],
+					[-122.931544037152, 49.2072222682656, 0],
+					[-122.931702436069, 49.2071369877083, 0],
+					[-122.931809106689, 49.2070795618142, 0]
+				]
+			]
+		},
+		"id": 213
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1A</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.933391224982, 49.2073389827392, 0],
+					[-122.933604562948, 49.2072241187401, 0],
+					[-122.933768792785, 49.2073549506108, 0],
+					[-122.933933146907, 49.2074858902595, 0],
+					[-122.934097241259, 49.2076166676077, 0],
+					[-122.934261446202, 49.2077475257402, 0],
+					[-122.933834754088, 49.2079772557386, 0],
+					[-122.93367053577, 49.2078464059923, 0],
+					[-122.933506455525, 49.2077156190559, 0],
+					[-122.933342115475, 49.2075846968039, 0],
+					[-122.933177899757, 49.2074538463494, 0],
+					[-122.933391224982, 49.2073389827392, 0]
+				]
+			]
+		},
+		"id": 214
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1A</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.934178344223, 49.2080264404032, 0],
+					[-122.934346440899, 49.2079359354937, 0],
+					[-122.934697196633, 49.2082154201393, 0],
+					[-122.934529113378, 49.2083059255625, 0],
+					[-122.93436102951, 49.2083964307394, 0],
+					[-122.934010260675, 49.2081169360789, 0],
+					[-122.934178344223, 49.2080264404032, 0]
+				]
+			]
+		},
+		"id": 215
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1A</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.932253021278, 49.2082832671903, 0],
+					[-122.932170913581, 49.2082178502217, 0],
+					[-122.931957568019, 49.2083327115496, 0],
+					[-122.931870413798, 49.2082632615045, 0],
+					[-122.931793614052, 49.2082020661897, 0],
+					[-122.932006959444, 49.2080871961667, 0],
+					[-122.932220317563, 49.2079723347502, 0],
+					[-122.932433660954, 49.2078574819241, 0],
+					[-122.93254033229, 49.207800046367, 0],
+					[-122.93264700338, 49.2077426107107, 0],
+					[-122.932811355797, 49.2078735699366, 0],
+					[-122.932975695353, 49.208004528918, 0],
+					[-122.933189037145, 49.2078896657014, 0],
+					[-122.933305692427, 49.2079826185003, 0],
+					[-122.93351826783, 49.2081520054477, 0],
+					[-122.933196923892, 49.2083232523071, 0],
+					[-122.933090252201, 49.2083806794699, 0],
+					[-122.932876908054, 49.2084955514885, 0],
+					[-122.93266356293, 49.208610414115, 0],
+					[-122.932450216819, 49.2087252763448, 0],
+					[-122.932285985964, 49.2085944156442, 0],
+					[-122.932499345622, 49.2084795537231, 0],
+					[-122.932335664033, 49.2083491251824, 0],
+					[-122.932253021278, 49.2082832671903, 0]
+				]
+			]
+		},
+		"id": 216
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1A</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.93466204898, 49.208351436051, 0],
+					[-122.934875402104, 49.2082365607381, 0],
+					[-122.935226176664, 49.2085160527679, 0],
+					[-122.935012823149, 49.2086309287229, 0],
+					[-122.934799482387, 49.2087457952937, 0],
+					[-122.93444870861, 49.2084663019796, 0],
+					[-122.93466204898, 49.208351436051, 0]
+				]
+			]
+		},
+		"id": 217
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1A</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.933369063793, 49.2084647397196, 0],
+					[-122.933692320152, 49.2082907049431, 0],
+					[-122.933867690069, 49.2084304483809, 0],
+					[-122.934043074704, 49.2085701915573, 0],
+					[-122.933719831469, 49.2087442363099, 0],
+					[-122.933616388225, 49.2087999207206, 0],
+					[-122.933509715982, 49.208857357261, 0],
+					[-122.933403057221, 49.2089147937102, 0],
+					[-122.933296370766, 49.2089722210491, 0],
+					[-122.933189697781, 49.209029657292, 0],
+					[-122.932838931076, 49.2087501591062, 0],
+					[-122.932945617583, 49.2086927321876, 0],
+					[-122.933052290125, 49.2086352961666, 0],
+					[-122.93315896242, 49.2085778600463, 0],
+					[-122.933265634468, 49.2085204238269, 0],
+					[-122.933369063793, 49.2084647397196, 0]
+				]
+			]
+		},
+		"id": 218
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1A</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.935189381975, 49.2087681809176, 0],
+					[-122.935402721931, 49.2086533136268, 0],
+					[-122.935753502411, 49.2089328040374, 0],
+					[-122.935708245979, 49.2089571740831, 0],
+					[-122.935326820716, 49.2091625485018, 0],
+					[-122.935151444109, 49.2090227982991, 0],
+					[-122.934976054749, 49.2088830568147, 0],
+					[-122.935189381975, 49.2087681809176, 0]
+				]
+			]
+		},
+		"id": 219
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1A</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.933384063112, 49.2090420930982, 0],
+					[-122.933490735886, 49.2089846656711, 0],
+					[-122.933597408414, 49.2089272381449, 0],
+					[-122.933704080718, 49.2088697925288, 0],
+					[-122.933791773446, 49.2089396732651, 0],
+					[-122.933879466433, 49.2090095449387, 0],
+					[-122.934092796742, 49.2088946710708, 0],
+					[-122.934306153499, 49.2087798148123, 0],
+					[-122.934481540605, 49.2089195573155, 0],
+					[-122.934268183641, 49.2090344228903, 0],
+					[-122.934054839406, 49.2091492970715, 0],
+					[-122.93394818066, 49.2092067250258, 0],
+					[-122.933841507925, 49.2092641618684, 0],
+					[-122.933734834954, 49.2093215896166, 0],
+					[-122.933628148007, 49.2093790172576, 0],
+					[-122.933452775413, 49.2092392734781, 0],
+					[-122.933277390078, 49.2090995294213, 0],
+					[-122.933384063112, 49.2090420930982, 0]
+				]
+			]
+		},
+		"id": 220
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1A</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.935414516261, 49.2092324190084, 0],
+					[-122.935841198151, 49.2090026742229, 0],
+					[-122.936016576644, 49.2091424143844, 0],
+					[-122.936191887547, 49.2092821002669, 0],
+					[-122.9359785467, 49.2093969779976, 0],
+					[-122.935765071614, 49.2095119110283, 0],
+					[-122.935589908093, 49.2093721598196, 0],
+					[-122.935414516261, 49.2092324190084, 0]
+				]
+			]
+		},
+		"id": 221
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1A</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.934229587319, 49.2092848945538, 0],
+					[-122.934656261406, 49.2090551631375, 0],
+					[-122.934831650473, 49.2091949051033, 0],
+					[-122.935007040528, 49.2093346467996, 0],
+					[-122.934580351918, 49.2095643884876, 0],
+					[-122.934367006136, 49.2096792542388, 0],
+					[-122.934016241929, 49.2093997596629, 0],
+					[-122.934229587319, 49.2092848945538, 0]
+				]
+			]
+		},
+		"id": 222
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1A</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.93466804712, 49.2096342595559, 0],
+					[-122.935094735926, 49.2094045175469, 0],
+					[-122.935270127452, 49.2095442678346, 0],
+					[-122.935445382636, 49.2096840447621, 0],
+					[-122.935018706788, 49.2099137790674, 0],
+					[-122.934805360517, 49.2100286456211, 0],
+					[-122.934454701241, 49.2097491254677, 0],
+					[-122.93466804712, 49.2096342595559, 0]
+				]
+			]
+		},
+		"id": 223
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "DUPLEX",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>DUPLEX</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RT-1A</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.933804483834, 49.2095137707329, 0],
+					[-122.934016241929, 49.2093997596629, 0],
+					[-122.934367006136, 49.2096792542388, 0],
+					[-122.9341585314, 49.2097914957462, 0],
+					[-122.934158477907, 49.2097914561364, 0],
+					[-122.933804483834, 49.2095137707329, 0]
+				]
+			]
+		},
+		"id": 224
+	}]
+}

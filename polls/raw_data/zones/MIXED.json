@@ -1,0 +1,424 @@
+{
+	"type": "FeatureCollection",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"features": [{
+		"type": "Feature",
+		"properties": {
+			"Name": "MIXED",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>MIXED</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>CD-30</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.914892896008, 49.2210014895918, 0],
+					[-122.915701467726, 49.2205666033738, 0],
+					[-122.916052276279, 49.2208461080818, 0],
+					[-122.915243703043, 49.2212810147238, 0],
+					[-122.914536353076, 49.2216614522834, 0],
+					[-122.914185533595, 49.2213819340074, 0],
+					[-122.914892896008, 49.2210014895918, 0]
+				]
+			]
+		},
+		"id": 1455
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "MIXED",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>MIXED</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>CD-35</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.910956293245, 49.2021780175053, 0],
+					[-122.910586420598, 49.2018836897512, 0],
+					[-122.911498526873, 49.2013913974965, 0],
+					[-122.911868527384, 49.2016858223001, 0],
+					[-122.911401722997, 49.2019376619579, 0],
+					[-122.911189195339, 49.2020531585302, 0],
+					[-122.911188572957, 49.2020526848988, 0],
+					[-122.910956293245, 49.2021780175053, 0]
+				]
+			]
+		},
+		"id": 1456
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "MIXED",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>MIXED</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>CD-37</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.901616062122, 49.2072067617204, 0],
+					[-122.901265664896, 49.2069271678452, 0],
+					[-122.901692484977, 49.2066975402114, 0],
+					[-122.9020429378, 49.2069771868217, 0],
+					[-122.901616062122, 49.2072067617204, 0]
+				]
+			]
+		},
+		"id": 1457
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "MIXED",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>MIXED</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>CD-40</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.8974853547, 49.2145383971432, 0],
+					[-122.897071370393, 49.2143286592893, 0],
+					[-122.897724320759, 49.2137691362601, 0],
+					[-122.897739585826, 49.2137422493789, 0],
+					[-122.897890068618, 49.2136121658726, 0],
+					[-122.897895244282, 49.2136073821529, 0],
+					[-122.897901062088, 49.2136029251826, 0],
+					[-122.897907447806, 49.213598815461, 0],
+					[-122.897914353416, 49.2135950838917, 0],
+					[-122.897921726991, 49.2135917585345, 0],
+					[-122.897929513085, 49.2135888643948, 0],
+					[-122.897937653149, 49.2135864232354, 0],
+					[-122.897946085974, 49.2135844534128, 0],
+					[-122.897954748148, 49.2135829697393, 0],
+					[-122.897963574535, 49.2135819833714, 0],
+					[-122.897972498764, 49.2135815017264, 0],
+					[-122.897981453728, 49.213581528426, 0],
+					[-122.897990372091, 49.2135820632693, 0],
+					[-122.897999186788, 49.2135831022347, 0],
+					[-122.898007831537, 49.2135846375095, 0],
+					[-122.898016241334, 49.213586657549, 0],
+					[-122.898024352939, 49.2135891471634, 0],
+					[-122.898032105358, 49.2135920876317, 0],
+					[-122.898039440294, 49.2135954568429, 0],
+					[-122.898046329286, 49.2135992103646, 0],
+					[-122.898364233544, 49.2135783084271, 0],
+					[-122.898377877834, 49.2136673728438, 0],
+					[-122.898381333725, 49.213706591287, 0],
+					[-122.898379785615, 49.2137458578543, 0],
+					[-122.898373189716, 49.2137848965574, 0],
+					[-122.898361592991, 49.2138234294265, 0],
+					[-122.898345078015, 49.2138611820939, 0],
+					[-122.898323762378, 49.2138978857468, 0],
+					[-122.898297797857, 49.213933279042, 0],
+					[-122.898267369329, 49.2139671099666, 0],
+					[-122.898232693454, 49.2139991376321, 0],
+					[-122.898194017139, 49.21402913399, 0],
+					[-122.898151615772, 49.2140568854554, 0],
+					[-122.898105628586, 49.2140820566551, 0],
+					[-122.897965079565, 49.2141532822751, 0],
+					[-122.897914669885, 49.2141809643484, 0],
+					[-122.897868332829, 49.2142115590179, 0],
+					[-122.897826472439, 49.214244798302, 0],
+					[-122.8974853547, 49.2145383971432, 0]
+				]
+			]
+		},
+		"id": 1458
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "MIXED",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>MIXED</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>CD-44</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.912524998416, 49.202734441256, 0],
+					[-122.91202725481, 49.2030024182193, 0],
+					[-122.911677286364, 49.2027232266634, 0],
+					[-122.912174842171, 49.2024553571972, 0],
+					[-122.912524998416, 49.202734441256, 0]
+				]
+			]
+		},
+		"id": 1459
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "MIXED",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>MIXED</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>CD-56</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.90816072575, 49.2046178355763, 0],
+					[-122.908906402436, 49.2042150409234, 0],
+					[-122.90925637116, 49.2044943055698, 0],
+					[-122.908510694483, 49.2048971033623, 0],
+					[-122.90816072575, 49.2046178355763, 0]
+				]
+			]
+		},
+		"id": 1460
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "MIXED",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>MIXED</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>CD-58</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.948857957535, 49.1847251369673, 0],
+					[-122.948747240191, 49.1846089447119, 0],
+					[-122.949345190738, 49.1843596511332, 0],
+					[-122.949280276844, 49.184292747775, 0],
+					[-122.949789093636, 49.184080615587, 0],
+					[-122.950293687634, 49.1846016012996, 0],
+					[-122.94944902634, 49.1849520344669, 0],
+					[-122.949123564711, 49.1846149445726, 0],
+					[-122.948857957535, 49.1847251369673, 0]
+				]
+			]
+		},
+		"id": 1461
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "MIXED",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>MIXED</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RM-CD-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.889982688357, 49.2254262816507, 0],
+					[-122.889608637922, 49.2252863497585, 0],
+					[-122.889915231022, 49.225006459584, 0],
+					[-122.8905062892, 49.2252799395143, 0],
+					[-122.890572844929, 49.2252808112548, 0],
+					[-122.890568325437, 49.225446076995, 0],
+					[-122.890357329328, 49.2254430362167, 0],
+					[-122.890357662899, 49.2254306968276, 0],
+					[-122.890283936437, 49.2254298244494, 0],
+					[-122.890120752947, 49.2254279062735, 0],
+					[-122.889982688357, 49.2254262816507, 0]
+				]
+			]
+		},
+		"id": 1462
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "MIXED",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>MIXED</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RM-CD-2</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.953534969229, 49.1835710112171, 0],
+					[-122.953758731735, 49.1834779094116, 0],
+					[-122.954020990718, 49.1837485936254, 0],
+					[-122.953791880981, 49.1838360267381, 0],
+					[-122.953623854279, 49.1839036042625, 0],
+					[-122.953314286673, 49.1840359807331, 0],
+					[-122.953065113441, 49.18415084004, 0],
+					[-122.952791361864, 49.1842800812884, 0],
+					[-122.952606255681, 49.1843679258144, 0],
+					[-122.952357080932, 49.1844952151301, 0],
+					[-122.952017894054, 49.1846686665479, 0],
+					[-122.951852028683, 49.1844974766982, 0],
+					[-122.951696021137, 49.1843364608467, 0],
+					[-122.951916506794, 49.184244700656, 0],
+					[-122.952060421678, 49.1841848075187, 0],
+					[-122.952325772091, 49.1840743557745, 0],
+					[-122.952518280423, 49.1839942777058, 0],
+					[-122.952799841589, 49.1838770040778, 0],
+					[-122.953056691079, 49.1837701543012, 0],
+					[-122.953368725472, 49.1836402082499, 0],
+					[-122.953534969229, 49.1835710112171, 0]
+				]
+			]
+		},
+		"id": 1463
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "MIXED",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>MIXED</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RM-CD-5</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.902479239517, 49.2151325580504, 0],
+					[-122.902447864772, 49.2151850837911, 0],
+					[-122.902261159904, 49.2152863180754, 0],
+					[-122.902256237975, 49.2152889451421, 0],
+					[-122.902251472815, 49.215291693569, 0],
+					[-122.902246872796, 49.2152945600556, 0],
+					[-122.901996096092, 49.2154483935478, 0],
+					[-122.901987624311, 49.2154536734148, 0],
+					[-122.901978847703, 49.215458735359, 0],
+					[-122.901969781688, 49.2154635732435, 0],
+					[-122.901825253196, 49.2155419370216, 0],
+					[-122.901783420273, 49.2155659156226, 0],
+					[-122.90174431131, 49.2155918005079, 0],
+					[-122.901708139124, 49.2156194496075, 0],
+					[-122.901601143367, 49.2157059236962, 0],
+					[-122.901516804915, 49.2157048398523, 0],
+					[-122.9014964543, 49.2156817964137, 0],
+					[-122.901479001525, 49.2156577607425, 0],
+					[-122.901464708158, 49.2156328469873, 0],
+					[-122.901453676297, 49.2156072331079, 0],
+					[-122.901445984742, 49.2155811020649, 0],
+					[-122.901441688436, 49.2155546405132, 0],
+					[-122.901440825324, 49.2155280375709, 0],
+					[-122.901438671012, 49.2154594278225, 0],
+					[-122.901427804444, 49.2153911689397, 0],
+					[-122.901408319827, 49.2153237331094, 0],
+					[-122.901380351869, 49.2152575865583, 0],
+					[-122.901344093932, 49.2151931865993, 0],
+					[-122.90129979669, 49.2151309784704, 0],
+					[-122.901247766396, 49.2150713922558, 0],
+					[-122.90118872612, 49.2150146611846, 0],
+					[-122.901393194838, 49.2149470296829, 0],
+					[-122.9015900686, 49.2148703018848, 0],
+					[-122.90177821341, 49.2147847381056, 0],
+					[-122.901798953129, 49.2148012243016, 0],
+					[-122.901971027262, 49.2148128745278, 0],
+					[-122.902168799845, 49.2149452692452, 0],
+					[-122.902301739735, 49.2150640843979, 0],
+					[-122.902361487299, 49.215074260905, 0],
+					[-122.902420365973, 49.2150856959865, 0],
+					[-122.902479239517, 49.2151325580504, 0]
+				]
+			]
+		},
+		"id": 1464
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "MIXED",
+			"description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZONECAT</th>\n<td>MIXED</td>\n</tr><tr bgcolor=\"\">\n<th>ZONING</th>\n<td>RM-CD-6</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CITYPAGE</th>\n<td><a href=\"http://www.newwestcity.ca/city_hall/bylaws/articles250.php\">ZONING</a></td>\n</tr></table></center>",
+			"timestamp": null,
+			"begin": null,
+			"end": null,
+			"altitudeMode": null,
+			"tessellate": 1,
+			"extrude": 0,
+			"visibility": 1,
+			"drawOrder": null,
+			"icon": null
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[-122.920270540397, 49.2006621328042, 0],
+					[-122.920605220904, 49.2009289571477, 0],
+					[-122.920440200312, 49.2010179060919, 0],
+					[-122.920105506381, 49.2007510722697, 0],
+					[-122.920270540397, 49.2006621328042, 0]
+				]
+			]
+		},
+		"id": 1465
+	}]
+}

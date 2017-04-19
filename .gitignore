@@ -1,0 +1,8 @@
+.DS_Store
+*.py[cod]
+.idea/
+twitter_secret.py
+db.sqlite3
+venv
+staticfiles
+.vscode
